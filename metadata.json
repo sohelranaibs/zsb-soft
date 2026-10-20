@@ -1,0 +1,7 @@
+{
+  "name": "ZSB AQUATICS - Business Control Center",
+  "description": "Google Excel macro-enabled data entry web app with Purchase Challans, Packing Lists, Supplier & Exporter Payments, real-time database, PDF generation, and Profit & Loss analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
